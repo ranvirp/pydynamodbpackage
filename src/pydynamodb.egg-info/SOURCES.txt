@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/pydynamodb/__init__.py
+src/pydynamodb/dynamodbstorable.py
+src/pydynamodb/dynamodbutility.py
+src/pydynamodb.egg-info/PKG-INFO
+src/pydynamodb.egg-info/SOURCES.txt
+src/pydynamodb.egg-info/dependency_links.txt
+src/pydynamodb.egg-info/top_level.txt
+tests/test.py

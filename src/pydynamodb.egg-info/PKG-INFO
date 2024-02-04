@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pydynamodb
+Version: 0.0.1
+Summary: Pythonic interface for dynamodb built over boto3
+Author-email: Ranvir Prasad <ranvir.prasad@gmail.com>
+Project-URL: Homepage, https://github.com/ranvirp/pydynamodb
+Project-URL: Issues, https://github.com/ranvirp/pydynamodb/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Pydynamodb Package
+
+This is a package to interface pydynamodb
